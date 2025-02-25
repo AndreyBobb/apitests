@@ -1,6 +1,7 @@
 package apiteststask.moduls;
 
-public class RegistrationModule {
+
+public class RegistrationModel {
 
     String email, password;
 
